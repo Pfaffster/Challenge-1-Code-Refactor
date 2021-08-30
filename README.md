@@ -47,5 +47,5 @@ Please view deployed GitHub [HERE](https://pfaffster.github.io/Challenge-1-Code-
 
 ---
 
-## [Horiseon Social Solution (Site)](https://pfaffster.github.io/Challenge-1-Code-Refactor/ "Horiseon")
+## [Horiseon Social Solution Services](https://pfaffster.github.io/Challenge-1-Code-Refactor/ "Horiseon")
 - - -
