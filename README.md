@@ -1,6 +1,6 @@
 # 01 HTML CSS Git: Code Refactor
 
-This project's purpose was to refactor a webpage so that the application links function properly, selectors / properties are consolidated and organized to follow semantic structure, and the code is optimized for search engines, like Google.
+This project's purpose was to refactor a webpage so that application links function properly, selectors / properties are consolidated and organized to follow semantic structure, and the code is optimized for search engines, like Google.
 
 ## User Story
 
@@ -50,4 +50,3 @@ Please view deployed GitHub [HERE](https://pfaffster.github.io/Challenge-1-Code-
 ## [Website](https://pfaffster.github.io/Challenge-1-Code-Refactor/ "Horiseon")
 
 - - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
